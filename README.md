@@ -35,6 +35,7 @@ El objetivo del proyecto es practicar lógica condicional, manipulación del DOM
 ## 🌐 Ver proyecto online
 
 https://sorteoplus.vercel.app/
+
 ---
 
 ## 🚀 Ejecución local
